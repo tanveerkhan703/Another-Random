@@ -1,0 +1,28 @@
+div{
+	width: 100%;
+}
+div .div-1{
+	border: 1px solid black;
+	width: 40%;
+	height: 120px;
+	float: left;
+	margin: 40px;
+	padding:20px ;
+	background-color: grey;
+	color: white;
+	text-align: center;
+
+}
+div .div-2{
+	border: 1px solid black;
+	float: right;
+	width: 40%;
+	height: 120px;
+	margin: 40px;
+	padding: 20px;
+	background-color: grey;
+	color: white;
+	text-align: center;
+	
+
+}
